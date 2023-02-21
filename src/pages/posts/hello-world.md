@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: はじめての記事
 publishedAt: 2023-02-21
 description: あたらしいブログのはじめての記事です！
@@ -10,8 +11,6 @@ tags: [astro, blog, learn]
 ---
 
 # My First Blog Post
-
-Published on: 2022-07-01
 
 Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey as I build a new website.
 
