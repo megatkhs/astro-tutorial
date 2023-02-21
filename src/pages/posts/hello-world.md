@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: はじめての記事
-publishedAt: 2023-02-21
+pubDate: 2023-02-21
 description: あたらしいブログのはじめての記事です！
 author: megatkh
 thumbnail:
